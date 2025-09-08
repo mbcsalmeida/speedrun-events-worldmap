@@ -1,0 +1,46 @@
+{
+  "en": {
+    "header": {
+      "title": "Speedrun Events World Map",
+      "languageToggle": "日本語"
+    },
+    "regions": {
+      "northAmerica": "North America",
+      "southAmerica": "South America",
+      "europe": "Europe",
+      "asia": "Asia",
+      "africa": "Africa",
+      "middleEast": "Middle East",
+      "southeastAsia": "Southeast Asia",
+      "australia": "Australia",
+      "japan": "Japan",
+      "oceania": "Oceania"
+    },
+    "eventPopup": {
+      "visitWebsite": "Visit Website",
+      "close": "Close"
+    }
+  },
+  "ja": {
+    "header": {
+      "title": "RTAイベント世界地図",
+      "languageToggle": "English"
+    },
+    "regions": {
+      "northAmerica": "北米",
+      "southAmerica": "南米",
+      "europe": "ヨーロッパ",
+      "asia": "アジア",
+      "africa": "アフリカ",
+      "middleEast": "中東",
+      "southeastAsia": "東南アジア",
+      "australia": "オーストラリア",
+      "japan": "日本",
+      "oceania": " 大洋州"
+    },
+    "eventPopup": {
+      "visitWebsite": "ウェブサイトを訪問",
+      "close": "閉じる"
+    }
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Summer Games Done Quick",
+      "link": "https://gamesdonequick.com",
+      "location": "Hilton Minneapolis Downtown, Minnesota, USA",
+      "coordinates": [
+        44.97288372152064,
+        -93.27323511695423
+      ],
+      "region": "North America",
+      "description": "Summer edition of the biggest speedrunning marathon!"
+    },
+    {
+      "id": 2,
+      "title": "European Speedrunner Assembly",
+      "link": "https://esamarathon.eu",
+      "location": "Quality Hotel View, Malmö, Sweden",
+      "coordinates": [
+        55.56237319095355,
+        12.976116454846245
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "title": "RPG Limit Break 2024",
+      "link": "https://rpglimitbreak.com",
+      "location": "Denver Marriot Tech Center, Denver Colorado, USA",
+      "coordinates": [
+        39.62746200385806,
+        -104.90141247305107
+      ],
+      "region": "North America",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "title": "Awesome Games Done Quick",
+      "link": "https://gamesdonequick.com",
+      "location": "Bethesda North Marriott Hotel & Conference Center, Rockville, Maryland, USA",
+      "coordinates": [
+        39.04724855327102,
+        -77.11570577493221
+      ],
+      "region": "North America",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "title": "Brazilians Against Time",
+      "link": "https://www.brat.com.br/",
+      "location": "São Paulo, Brazil",
+      "coordinates": [
+        -23.5505,
+        -46.6333
+      ],
+      "region": "South America",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "title": "AusSpeedruns",
+      "link": "https://www.ausspeedruns.com/",
+      "location": "Adelaide Rockford, Adelaide, Australia",
+      "coordinates": [
+        -34.923102033822786,
+        138.59282979817175
+      ],
+      "region": "Australia",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "title": "Midwest Speedfest",
+      "link": "https://gamesdonequick.com",
+      "location": "Video Games & Music Convention, Plymouth, Minnesota, USA",
+      "coordinates": [
+        45.02073643015433,
+        -93.46327524563532
+      ],
+      "region": "North America",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "title": "Calithon",
+      "link": "https://www.twitch.tv/calithon/about",
+      "location": "California, USA",
+      "coordinates": [
+        36.88863734191093,
+        -119.12447243435597
+      ],
+      "region": "North America",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "title": "GSA Speedrun Summit",
+      "link": "https://www.start.gg/tournament/gsa-speedrun-summit/details",
+      "location": "Urban Arts, New York City, New York, USA",
+      "coordinates": [
+        40.74470808058548,
+        -73.99267935330519
+      ],
+      "region": "North America",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "title": "RTA in Japan",
+      "link": "https://rtain.jp/",
+      "location": "note place, Chiyoda City, Tokyo, Japan",
+      "coordinates": [
+        35.68588500144507,
+        139.73203417402618
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 11,
+      "title": "Fukuoka RTA Forum",
+      "link": "https://www.fukuoka-rta.com/home",
+      "location": "Central Ward, Fukuoka, Japan",
+      "coordinates": [
+        33.57913355764783,
+        130.3984117275037
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 12,
+      "title": "RTA in Tochigi",
+      "link": "https://www.twitch.tv/rtaintochigi",
+      "location": "Tochigi, Japan",
+      "coordinates": [
+        36.56137108264332,
+        139.88266110085883
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 13,
+      "title": "Sapporo Offline Speedrun",
+      "link": "https://www.twitch.tv/sapporoofflinespeedrun",
+      "location": "13labo, Sapporo, Hokkaido, Japan",
+      "coordinates": [
+        43.076322870168006,
+        141.3477524765754
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 14,
+      "title": "Don't Stop Running!",
+      "link": "https://twitch.tv/jaws_players",
+      "location": "Kyoto, Japan",
+      "coordinates": [
+        35.04429698113458,
+        135.76956149790075
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 15,
+      "title": "Ge-sen de RTA in Tokyo",
+      "link": "https://twitch.tv/rtainjapan",
+      "location": "Tachikawa, Tokyo, Japan",
+      "coordinates": [
+        35.698965942098916,
+        139.41801335374885
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 15,
+      "title": "RTA in Gunma Prefectural office",
+      "link": "https://twitch.tv/keynnaka",
+      "location": "Maebashi, Gunma, Japan",
+      "coordinates": [
+        36.390827052871366,
+        139.06053614726818
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "title": "Gramy Szybko, Pomagamy Skutecznie",
+      "link": "https://gsps.pl/",
+      "location": "Hotel Swing, Krakow, Poland",
+      "coordinates": [
+        50.08885887840966,
+        19.98112036984813
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "title": "Bulgarian Speedrun Marathon",
+      "link": "https://www.twitch.tv/bgspeedrunassociation/",
+      "location": "Plovdiv, Bulgaria",
+      "coordinates": [
+        42.142470885928184,
+        24.745355567550323
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 17,
+      "title": "Benelux Speedrunner Gathering",
+      "link": "https://bsgmarathon.com/",
+      "location": "Fletcher Hotel Nieuwegein, Nieuwegein, The Netherlands",
+      "coordinates": [
+        52.02675220259498,
+        5.068457454621731
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 18,
+      "title": "United Kingdom Speedrunner Gathering",
+      "link": "https://uksgmarathon.com/",
+      "location": "Leonardo Hotel Glasgow, Glasgow, Scotland",
+      "coordinates": [
+        55.85679830732811,
+        -4.257787831642986
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 19,
+      "title": "Norway Speedrunner Gathering",
+      "link": "https://nsgmarathon.com/",
+      "location": "Gjerdrum Kulturhus, Gjerdrum, Norway",
+      "coordinates": [
+        55.85679830732811,
+        -4.257787831642986
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 20,
+      "title": "Warwick's Awesome Speedruns and Demos",
+      "link": "https://warwickspeed.run/",
+      "location": "Conventry, England",
+      "coordinates": [
+        52.379376907127394,
+        -1.561534776045492
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 20,
+      "title": "GTA Marathon",
+      "link": "https://gtamarathon.com/",
+      "location": "Portsmouth, England",
+      "coordinates": [
+        50.794951623594315,
+        -1.090873860798324
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 21,
+      "title": "RPG Speedrunner Union",
+      "link": "https://rpgsu.org/",
+      "location": "The Netherlands",
+      "coordinates": [
+        52.02104231337335,
+        6.023723628164726
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 22,
+      "title": "Giochi d'un Fiato",
+      "link": "https://italianspeedruncommunity.com",
+      "location": "Bologna Nerd, Bologna, Italy",
+      "coordinates": [
+        44.50450935460821,
+        11.295477354184024
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 23,
+      "title": "Czechoslovak Marathon",
+      "link": "https://czechoslovak-marathon.cz/",
+      "location": "Hlavní tř. 678/118, Ostrava, Czechia",
+      "coordinates": [
+        49.83106442416799,
+        18.165143867979765
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 24,
+      "title": "Hekathon",
+      "link": "https://hekathon.com/",
+      "location": "XPERION Cologne, Germany ",
+      "coordinates": [
+        50.949049857630996,
+        6.950801310374894
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 25,
+      "title": "SlowRunsLive",
+      "link": "https://slowrunslive.de/",
+      "location": "Penta Hotel Kassel, Kassel, Germany",
+      "coordinates": [
+        51.311374940152525,
+        9.445546525741594
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 26,
+      "title": "Germench",
+      "link": "https://germench.de/",
+      "location": "musa e.V. , Göttingen, Germany",
+      "coordinates": [
+        51.5501843874763,
+        9.915665810411678
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 27,
+      "title": "Speedcon",
+      "link": "https://speedcon.eu/",
+      "location": "Potsdam, Germany",
+      "coordinates": [
+        52.40506851638429,
+        13.059669369989786
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 28,
+      "title": "FinnRuns",
+      "link": "https://finnruns.fi/",
+      "location": "GamePit Pro, Jyväskylä, Finlândia",
+      "coordinates": [
+        52.40506851638429,
+        13.059669369989786
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 29,
+      "title": "FinnRuns",
+      "link": "https://finnruns.fi/",
+      "location": "GamePit Pro, Jyväskylä, Finlândia",
+      "coordinates": [
+        52.40506851638429,
+        13.059669369989786
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 30,
+      "title": "Speedons",
+      "link": "https://speedons.fr/",
+      "location": "Centre des Congrès de Lyon, Lyon, France",
+      "coordinates": [
+        45.7852449245264,
+        4.856477483090621
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 31,
+      "title": "Nitro Speedrun Festival",
+      "link": "https://linktr.ee/nitrospeedrun",
+      "location": "Lyon, France",
+      "coordinates": [
+        45.74646212338884,
+        4.834967783088451
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 32,
+      "title": "Interglitches",
+      "link": "hhttps://lefrenchrestream.fr/",
+      "location": "Institut du Cerveau, Paris, France",
+      "coordinates": [
+        48.83533603538011,
+        2.3642214832652546
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 33,
+      "title": "Maratón Mexicana de Speedruns",
+      "link": "https://www.twitch.tv/speedrunsmx",
+      "location": "Courtyard Mexico City Revolucion, Ciudad de México, Mexico",
+      "coordinates": [
+        19.39676519750996,
+        -99.18556877116384
+      ],
+      "region": "North America",
+      "description": ""
+    },
+    {
+      "id": 34,
+      "title": "Ge-sen de RTA in Osaka",
+      "link": "https://twitch.tv/rtainjapan",
+      "location": "Osaka, Japan",
+      "coordinates": [
+        34.69630168340198,
+        135.51167530952443
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 35,
+      "title": "RTA Gate",
+      "link": "https://www.bluemidgetcafe.com/rta-gate",
+      "location": "Toyama, Japan",
+      "coordinates": [
+        36.700565813593926,
+        137.21434238262998
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 36,
+      "title": "Nagoya RTA Meeting",
+      "link": "https://www.twitch.tv/nagoyarta",
+      "location": "SoLaCe, Nagoya, Japan",
+      "coordinates": [
+        35.132399084725776,
+        136.97864281139627
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 37,
+      "title": "Urayasu RTA",
+      "link": "https://www.twitch.tv/urayasurta/",
+      "location": "Urayasu city civic plaza Wave101, Urayasu, Japan",
+      "coordinates": [
+        35.64878650222127,
+        139.91405338072983
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 38,
+      "title": "Saitama Yoi Tokoro Speedrun Offline",
+      "link": "https://www.twitch.tv/saitama_speedrun",
+      "location": "RaiBoC Hall, Saitama, Japan",
+      "coordinates": [
+        35.907584341237715, 139.6273388317687
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 39,
+      "title": "Speedrun Assembly of Luxembourg",
+      "link": "https://www.twitch.tv/speedrunassemblylu",
+      "location": "Völklingen, Luxembourg",
+      "coordinates": [
+        49.25076558262607, 6.853104015492273
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 40,
+      "title": "RTA EXPERIENCE",
+      "link": "https://www.twitch.tv/nagoyarta",
+      "location": "Red Bull Gaming Sphere Tokyo, Nakano, Tokyo Japan",
+      "coordinates": [
+        35.70321541902592, 139.6654648267658
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 41,
+      "title": "Hokuriku RTA",
+      "link": "https://www.twitch.tv/smithp226",
+      "location": "Kanazawa, Ishikawa, Japan",
+      "coordinates": [
+        36.57717323872066, 136.62195349640186
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 42,
+      "title": "Speedrun EXPO",
+      "link": "https://twitch.tv/nagoyarta",
+      "location": "Hotel Fukuracia Osaka Bay, Osaka, Japan",
+      "coordinates": [
+        34.63916582430035, 135.42343478253866
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 43,
+      "title": "Speedrun EXPO",
+      "link": "https://twitch.tv/nagoyarta",
+      "location": "Hotel Fukuracia Osaka Bay, Osaka, Japan",
+      "coordinates": [
+        34.63916582430035, 135.42343478253866
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 44,
+      "title": "JoumuDanbe RTA",
+      "link": "https://twitch.tv/nico_yutapon",
+      "location": "Maebashi, Gunma, Japan",
+      "coordinates": [
+        36.3802614366245, 139.07074202883618
+      ],
+      "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 45,
+      "title": "RTA in Shuran",
+      "link": "https://twitch.tv/beer30OL",
+      "location": "Osaka, Japan",
+      "coordinates": [
+        34.66689028085163, 135.55139843835914
+      ],
+      "region": "Japan",
+      "description": ""
+    }
+  ]
+}
