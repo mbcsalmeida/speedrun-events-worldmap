@@ -1,7 +1,12 @@
 import React, { useState } from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
 
-export function Header() {
+interface HeaderProps {
+  selectedRegion?: string | null;
+  onClearSelectedRegion?: () => void;
+}
+
+export function Header({ selectedRegion, onClearSelectedRegion }: HeaderProps) {
   const { language, setLanguage, translations } = useLanguage();
   const [isCollapsed, setIsCollapsed] = useState(false);
 
@@ -28,6 +33,15 @@ export function Header() {
           >
             {currentTranslations.header.languageToggle}
           </button>
+          {selectedRegion && !isCollapsed && (
+            <button
+              type="button"
+              onClick={onClearSelectedRegion}
+              className="px-3 py-1 bg-gray-100 text-gray-700 rounded-md hover:bg-gray-200 transition-colors text-sm"
+            >
+              Change region
+            </button>
+          )}
         </div>
 
         <div className="flex items-center space-x-4">

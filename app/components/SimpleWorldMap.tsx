@@ -11,67 +11,67 @@ interface SimpleWorldMapProps {
 // Region definitions with bounds for zooming
 const REGION_BOUNDS: Record<string, RegionBounds> = {
   'North America': {
-    north: 70,
-    south: 15,
-    east: -50,
-    west: -170,
-    center: [45, -100]
+    north: 60,
+    south: 20,
+    east: -60,
+    west: -130,
+    center: [40, -95]
   },
   'South America': {
-    north: 15,
-    south: -60,
-    east: -30,
-    west: -90,
+    north: 10,
+    south: -40,
+    east: -35,
+    west: -82,
     center: [-15, -60]
   },
   'Europe': {
-    north: 70,
-    south: 35,
-    east: 40,
+    north: 65,
+    south: 40,
+    east: 30,
     west: -10,
-    center: [55, 15]
+    center: [52, 10]
   },
   'Russia': {
-    north: 70,
-    south: 40,
-    east: 180,
-    west: 20,
-    center: [60, 100]
+    north: 60,
+    south: 45,
+    east: 150,
+    west: 120,
+    center: [52, 135]
   },
   'Africa': {
-    north: 40,
-    south: -35,
-    east: 55,
-    west: -20,
-    center: [0, 20]
+    north: 25,
+    south: -30,
+    east: 50,
+    west: -10,
+    center: [-2, 20]
   },
   'Middle East': {
-    north: 45,
-    south: 10,
-    east: 70,
-    west: 20,
-    center: [30, 50]
+    north: 38,
+    south: 20,
+    east: 60,
+    west: 30,
+    center: [30, 45]
   },
   'Southeast Asia': {
-    north: 25,
-    south: -10,
-    east: 140,
-    west: 90,
-    center: [5, 115]
+    north: 20,
+    south: -5,
+    east: 130,
+    west: 95,
+    center: [7, 112]
   },
   'Australia': {
-    north: -10,
-    south: -45,
-    east: 155,
-    west: 110,
-    center: [-25, 135]
+    north: -15,
+    south: -44,
+    east: 154,
+    west: 112,
+    center: [-25, 134]
   },
   'Japan': {
-    north: 45,
+    north: 46,
     south: 30,
-    east: 145,
-    west: 125,
-    center: [35, 135]
+    east: 146,
+    west: 128,
+    center: [37, 137]
   }
 };
 
@@ -112,7 +112,7 @@ export function SimpleWorldMap({ events, selectedRegion, onRegionClick }: Simple
               map.fitBounds([
                 [bounds.south, bounds.west],
                 [bounds.north, bounds.east]
-              ], { padding: [20, 20] });
+              ], { padding: [10, 10], maxZoom: 7 });
             } else {
               map.setView([20, 0], 2);
             }
@@ -120,11 +120,6 @@ export function SimpleWorldMap({ events, selectedRegion, onRegionClick }: Simple
 
           return null;
         };
-
-        // Filter events by selected region
-        const filteredEvents = selectedRegion 
-          ? events.filter(event => event.region === selectedRegion)
-          : events;
 
         const MapComponent = () => (
           <div className="relative w-full h-screen">
@@ -141,7 +136,7 @@ export function SimpleWorldMap({ events, selectedRegion, onRegionClick }: Simple
               
               <LeafletMap />
               
-              {filteredEvents.map((event) => (
+              {events.map((event) => (
                 <Marker key={event.id} position={event.coordinates}>
                   <Popup>
                     <EventPopup event={event} />

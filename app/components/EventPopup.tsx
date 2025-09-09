@@ -24,7 +24,7 @@ export function EventPopup({ event }: EventPopupProps) {
           href={event.link}
           target="_blank"
           rel="noopener noreferrer"
-          className="px-3 py-1 bg-blue-600 text-white text-sm rounded hover:bg-blue-700 transition-colors"
+          className="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow"
         >
           {currentTranslations.eventPopup.visitWebsite}
         </a>

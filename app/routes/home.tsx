@@ -31,17 +31,24 @@ export default function Home() {
   return (
     <LanguageProvider>
       <div className="h-screen flex flex-col">
-        <Header />
+        <Header 
+          selectedRegion={selectedRegion}
+          onClearSelectedRegion={() => setSelectedRegion(null)}
+        />
         <div className="flex-1 relative">
-          {/* <WorldMap
-            events={events}
-            selectedRegion={selectedRegion}
-            onRegionClick={handleRegionClick}
-          /> */}
-          <RegionSelectionMap 
-            selectedRegion={selectedRegion}
-            onRegionClick={handleRegionClick}
-          />
+          {/* Moved change region control into Header */}
+          {selectedRegion ? (
+            <WorldMap
+              events={events}
+              selectedRegion={selectedRegion}
+              onRegionClick={handleRegionClick}
+            />
+          ) : (
+            <RegionSelectionMap 
+              selectedRegion={selectedRegion}
+              onRegionClick={handleRegionClick}
+            />
+          )}
         </div>
       </div>
     </LanguageProvider>
