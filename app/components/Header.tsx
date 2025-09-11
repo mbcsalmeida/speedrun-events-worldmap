@@ -99,7 +99,7 @@ export function Header({ selectedRegion, onClearSelectedRegion }: HeaderProps) {
                 Map from freeworldmaps.com
               </p>
               <p>
-                Feedback or contributions are welcome! If your event is missing or you find any wrong information, please contact sioneus on discord.
+                Feedback or contributions are welcome! If your event is missing or you find any wrong information, please contact <a href='https://sioneus.me'>sioneus</a> on discord.
               </p>
             </div>
           </div>
