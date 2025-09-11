@@ -75,7 +75,7 @@
     {
       "id": 7,
       "title": "Midwest Speedfest",
-      "link": "https://gamesdonequick.com",
+      "link": "https://midwestspeedfest.com/",
       "location": "Video Games & Music Convention, Plymouth, Minnesota, USA",
       "coordinates": [
         45.02073643015433,
@@ -159,7 +159,7 @@
     {
       "id": 14,
       "title": "Don't Stop Running!",
-      "link": "https://twitch.tv/jaws_players",
+      "link": "https://x.com/d_s_run",
       "location": "Kyoto, Japan",
       "coordinates": [
         35.04429698113458,
@@ -171,7 +171,7 @@
     {
       "id": 15,
       "title": "Ge-sen de RTA in Tokyo",
-      "link": "https://twitch.tv/rtainjapan",
+      "link": "https://x.com/GC_RTA",
       "location": "Tachikawa, Tokyo, Japan",
       "coordinates": [
         35.698965942098916,
@@ -279,7 +279,7 @@
       "id": 21,
       "title": "RPG Speedrunner Union",
       "link": "https://rpgsu.org/",
-      "location": "The Netherlands",
+      "location": "Unknown, The Netherlands",
       "coordinates": [
         52.02104231337335,
         6.023723628164726
@@ -361,12 +361,11 @@
     },
     {
       "id": 28,
-      "title": "FinnRuns",
-      "link": "https://finnruns.fi/",
-      "location": "GamePit Pro, Jyväskylä, Finlândia",
+      "title": "Odyssée du Jeu Vidéo 2025",
+      "link": "https://www.speedthemall.com/",
+      "location": "Espace Cultures Agora, Cherbourg-en-Cotentin, France",
       "coordinates": [
-        52.40506851638429,
-        13.059669369989786
+        49.64123827315385, -1.6642251608677028
       ],
       "region": "Europe",
       "description": ""
@@ -375,10 +374,9 @@
       "id": 29,
       "title": "FinnRuns",
       "link": "https://finnruns.fi/",
-      "location": "GamePit Pro, Jyväskylä, Finlândia",
+      "location": "GamePit Pro, Jyväskylä, Finland",
       "coordinates": [
-        52.40506851638429,
-        13.059669369989786
+        62.25056637076138, 25.74320288413595
       ],
       "region": "Europe",
       "description": ""
@@ -410,7 +408,7 @@
     {
       "id": 32,
       "title": "Interglitches",
-      "link": "hhttps://lefrenchrestream.fr/",
+      "link": "https://lefrenchrestream.fr/",
       "location": "Institut du Cerveau, Paris, France",
       "coordinates": [
         48.83533603538011,
@@ -434,7 +432,7 @@
     {
       "id": 34,
       "title": "Ge-sen de RTA in Osaka",
-      "link": "https://twitch.tv/rtainjapan",
+      "link": "https://x.com/GC_RTA",
       "location": "Osaka, Japan",
       "coordinates": [
         34.69630168340198,
@@ -565,6 +563,75 @@
         34.66689028085163, 135.55139843835914
       ],
       "region": "Japan",
+      "description": ""
+    },
+    {
+      "id": 46,
+      "title": "Heart Beat Marathon",
+      "link": "https://www.twitch.tv/heartbeatmarathon",
+      "location": "Flensburg University of Applied Sciences, Flensburg, Germany",
+      "coordinates": [
+        54.77497875653002, 9.449160510614607
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 47,
+      "title": "GGBavaria",
+      "link": "https://germench.de/",
+      "location": "Kleine Olympiahalle, München, Germany",
+      "coordinates": [
+        48.17464930988754, 11.552337983226625
+      ],
+      "region": "Europe",
+      "description": ""
+    },
+    {
+      "id": 48,
+      "title": "Chile Speedruns Marathon",
+      "link": "https://www.twitch.tv/rebeccare",
+      "location": "Santiago, Chile",
+      "coordinates": [
+        -33.464152898372646, -70.67660648382657
+      ],
+      "region": "South America",
+      "description": ""
+    }
+    ,
+    {
+      "id": 49,
+      "title": "Triple S",
+      "link": "www.twitch.tv/speedrunsespanol",
+      "location": "Madrid, Spain",
+      "coordinates": [
+        40.47060667300868, -3.699213110878651
+      ],
+      "region": "Europe",
+      "description": ""
+    }
+    ,
+    {
+      "id": 50,
+      "title": "Maraton de SpeedRuns Colombia",
+      "link": "www.youtube.com/@speedrunscolombia7259",
+      "location": "Valle del Cauca, Spain",
+      "coordinates": [
+        3.458637617363926, -76.53294201816107
+      ],
+      "region": "South America",
+      "description": ""
+    }
+    ,
+    {
+      "id": 51,
+      "title": "Fast & Fab",
+      "link": "https://fastandfabs.carrd.co/",
+      "location": "Unknown, France",
+      "coordinates": [
+        47.09947886025383, 2.807875827345455
+      ],
+      "region": "Europe",
       "description": ""
     }
   ]
